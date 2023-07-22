@@ -21,7 +21,7 @@ Olá! Sou Emerson, um desenvolvedor web apaixonado por criar soluções inovador
 
 ## Projetos
 
-1. [Portfólio](https://github.com/soon) - Em manutenção.
+1. [Portfólio]([https://github.com/soon](https://emerson-portfolio.netlify.app/) - Meu portfólio.
 
 ## Contato
 
