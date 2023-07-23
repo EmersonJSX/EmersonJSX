@@ -14,9 +14,10 @@ Olá! Sou Emerson, um desenvolvedor web apaixonado por criar soluções inovador
 
 ## Tecnologias
 
-- HTML5, CSS3 e JavaScript (ES6+)
-- ReactJS
-- Node.js
+- HTML5 - SEO e Semântico,
+- CSS3 - Responsivo e Moderno
+- JavaScript - Biblioteca React.JS - Framework: NextJS
+- Node.js - Back-End
 - Git e controle de versão
 
 ## Projetos
